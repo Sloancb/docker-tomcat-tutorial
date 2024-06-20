@@ -10,9 +10,9 @@ A basic tutorial on running a react web app on Tomcat using Docker
 * http://localhost:80
 
 # Links
-[Sample Tomcat web app](https://tomcat.apache.org/tomcat-8.0-doc/appdev/sample/)
-"# docker-tomcat-tutorial" 
-[RewriteValve Docs](https://tomcat.apache.org/tomcat-9.0-doc/rewrite.html)
+* [Sample Tomcat web app](https://tomcat.apache.org/tomcat-8.0-doc/appdev/sample/)
+"# docker-tomcat-tutorial"
+* [RewriteValve Docs](https://tomcat.apache.org/tomcat-9.0-doc/rewrite.html)
 
 # Key notes
 * For the tomcat routing to work one must configure the context.xml to allow for a RewriteValve
