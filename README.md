@@ -14,6 +14,6 @@ A basic tutorial on running a react web app on Tomcat using Docker
 "# docker-tomcat-tutorial" 
 [RewriteValve Docs](https://tomcat.apache.org/tomcat-9.0-doc/rewrite.html)
 
-#Key notes
+# Key notes
 * For the tomcat routing to work one must configure the Context.xml to allow for a RewriteValve
   *Additionally, one must create a rewrite.config in the WEB-INF folder for Catalina to manage the routing -> ${Cataline_home}/webapps/ROOT/WEB-INF/
